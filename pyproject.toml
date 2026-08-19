@@ -1,0 +1,4 @@
+[tool.pyrefly]
+python-interpreter = ".venv/Scripts/python.exe"
+search-paths = [".venv/Lib/site-packages"]
+ignore = ["**/__pyrefly_virtual__/**", "inmemory"]

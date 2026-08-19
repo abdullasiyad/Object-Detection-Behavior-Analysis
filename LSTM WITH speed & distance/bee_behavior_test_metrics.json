@@ -1,0 +1,7 @@
+{
+    "test_loss": 0.09567438811063766,
+    "test_accuracy": 0.9632505774497986,
+    "test_accuracy_percent": 96.32505774497986,
+    "macro_f1": 0.9418,
+    "weighted_f1": 0.965
+}
